@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body {
+    background-color: #fdfcfd;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.red-color {
+    color: #d11f40;
+}
+
+.gray-color {
+    color: #a7a8aa;
+}
+
+.icon {
+    padding-right: 5px;
+}
+
+.card {
+    width: 250px;
+    background-color: #f4f5f9;
+    border: 2px solid #ebecf0;
+    border-radius: 12px;
+}
+
+.card__header {
+   text-align: center;
+   background-color: #f4f5f9;
+   padding-bottom: 16px;
+   border-radius: 12px;
+}
+
+.proof {
+    padding-top: 30px;
+}
+
+.proof__title {
+    padding-top: 22px;
+    font-weight: bold;
+}
+
+.proof__desc {
+    padding-left: 40px;
+    padding-right: 40px;
+    font-weight: normal;
+    font-size: 14px;
+    padding-top: 5px;
+}
+
+.proof__button {
+    padding-top: 24px;
+}
+
+.proof__button button {
+    border-radius: 5px;
+    background-color: white;
+    padding: 8px 18px 8px 18px;
+    color: #d11f40;
+    border: 1px solid #d11f40;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.proof__button___content {
+    display: flex;
+}
+
+.card__footer {
+    background-color: white;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    font-weight: normal;
+    border-top: 1px solid #ebecf0;;
+    padding-top: 3px;
+}
+
+.list__ava {
+    margin-left: 5px;
+    padding: 2px;
+    position: relative;
+}
+
+.list__ava___text {
+    position: absolute;
+    left: 14px;
+    bottom: 1px;
+    color: white;
+    font-size: 12px;
+}
+
+.list__desc {
+    padding-top: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.list__desc___name {
+    font-size: 14px;
+}
+
+.list__desc___timing {
+    padding-top: 3px;
+    font-size: 10px;
+}
+
+.list__close {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: right;
+    padding: 10px;
+    cursor: pointer;
+}
+
+
+
+
