@@ -4,6 +4,8 @@ Prop Of Payment (POP) is an example source code for uploading files and it is cu
 
 ## Demo
 
+![alt_text](ss/proof-of-payment.png)
+
 ## Project Structure
 
 ```
