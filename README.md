@@ -1,6 +1,6 @@
 # Proof Of Payment
 
-Prop Of Payment (POP) is an example source code for uploading files and it is customized by the component. It has made by React and Redux and supported by Typescript. It hides the file component HTML and gives reference to the component that is built using HTML tags and CSS.
+Proof Of Payment (POP) is an example source code for uploading files and it is customized by the component. It has made by React and Redux and supported by Typescript. It hides the file component HTML and gives reference to the component that is built using HTML tags and CSS.
 
 ## Demo
 
