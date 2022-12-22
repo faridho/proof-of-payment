@@ -60,6 +60,10 @@ body {
     padding-top: 24px;
 }
 
+.proof__button___upload {
+    display: none;
+}
+
 .proof__button button {
     border-radius: 5px;
     background-color: white;
@@ -111,6 +115,10 @@ body {
 
 .list__desc___name {
     font-size: 14px;
+    width: 150px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 .list__desc___timing {
