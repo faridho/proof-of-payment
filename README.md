@@ -137,9 +137,9 @@ MIT © [faridho](https://github.com/faridho)
 
 ```
 ├── colorization.ipynb
-├── model
+├── module
 │   ├── cycle-gan
-│   │   ├── colorization.py
+│   │   ├── model.py
 ├── checkpoints
 ```
 
