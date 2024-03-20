@@ -131,3 +131,15 @@ POP creates component Icons by converting SVG files into the script.
 ## License
 
 MIT © [faridho](https://github.com/faridho)
+
+
+## Project Structure
+
+```
+├── colorization.ipynb
+├── model
+│   ├── cycle-gan
+│   │   ├── colorization.py
+├── checkpoints
+```
+
